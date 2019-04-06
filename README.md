@@ -1,0 +1,2 @@
+# GoogleAutoTranslationTool
+自动将系统剪贴板上的英文翻译成中文并将翻译结果写入剪贴板
